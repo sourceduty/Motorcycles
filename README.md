@@ -20,6 +20,15 @@ This dirt bike features a front-mounted winch, specifically engineered to enhanc
 Technically, the winch operates via a direct connection to the bike's electrical system, powered by the engine's alternator. The control mechanism is easily accessible to the rider, allowing for quick deployment in challenging scenarios. This setup is particularly advantageous for riders who venture into remote areas where self-recovery might be necessary. The bike's overall design reflects a focus on functionality without compromising the rugged aesthetic that is typical of high-performance off-road motorcycles. This winch-equipped dirt bike is a prime example of combining advanced mechanical engineering with practical, real-world applications in the most demanding environments.
 
 #
+### Single Axle Motorcycle Concept
+
+![Concept Bike](https://github.com/user-attachments/assets/56547e51-bcb2-4991-b809-0d1355a51bf9)
+
+This advanced two-wheeled vehicle that marries industrial engineering with a bold, rugged aesthetic. The vehicle features massive, off-road tires mounted on either side of a highly detailed truck axle. The central mechanical assembly is exposed, revealing intricate gears, bolts, and heavy-duty components, all of which exude an air of mechanical prowess and durability. The design emphasizes functionality with a raw, industrial appeal, as every element appears purpose-built for extreme conditions, suggesting that this machine is designed to conquer the toughest terrains.
+
+Above the axle, a robust seat, reminiscent of a tractor's, sits atop a sturdy spring suspension system, offering both comfort and resilience. The handlebars are sleek and minimal, with metal grips and a simple control lever, enhancing the vehicle's utilitarian vibe. This design blends the technical sophistication of modern machinery with the cool, rebellious attitude of a custom-built off-road machine, making it as much a statement piece as a functional vehicle. The overall aesthetic strikes a perfect balance between technical precision and a raw, untamed coolness that appeals to those who appreciate both engineering and adventure.
+
+#
 
 ![Quad-Tracked Dirt Bike](https://github.com/user-attachments/assets/06c9b692-f16a-4942-a1e3-a21c51ab2178)
 
