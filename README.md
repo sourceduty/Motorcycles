@@ -1,6 +1,6 @@
 ![Motorcycles](https://github.com/user-attachments/assets/c50d8049-952a-4120-818d-0f58a26f03e0)
 
-> Single seat vehicles with two, three and four wheels.
+> Single seat vehicles with one, two, three and four wheels.
 
 #
 
