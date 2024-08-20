@@ -28,6 +28,12 @@ Alongside electric motorcycles, related machines such as electric scooters, e-bi
 [Vehicle Rating](https://github.com/sourceduty/Vehicle_Rating)
 <br>
 [Vehicle Speed Reducer](https://github.com/sourceduty/Vehicle_Speed_Reducer)
+<br>
+[Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
+
+#
+
+Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
